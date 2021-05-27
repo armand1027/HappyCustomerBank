@@ -50,13 +50,31 @@ Disbursed- Loan Disbursed (Target Variable)
 
 ### Example of data distribution (Source - Categorical Variable with multiple Levels)
 
-
-
-```
-resnet_match       0.808508
-inception_match    0.898601
-```
-
-## Example
-
 ![Example prediction for the file outside of the dataset](https://raw.githubusercontent.com/armand1027/HappyCustomerBank/main/Images/DataPNG1.PNG)
+
+### Employer Name Value Counts
+
+```
+0                                                   4600
+TATA CONSULTANCY SERVICES LTD (TCS)                  550
+COGNIZANT TECHNOLOGY SOLUTIONS INDIA PVT LTD         404
+ACCENTURE SERVICES PVT LTD                           322
+GOOGLE                                               299
+                                                    ... 
+VIACOM                                                 1
+EFFIMAX ENGINEERS PRIVATE LIMITED                      1
+RELIABLE BUSINESS SOLUTIONS AND SERVICES PVT LTD       1
+LOYAL TEXTILE MILLS LTD                                1
+ASHISH GUPTA                                           1
+Name: Employer_Name, Length: 43522, dtype: int64
+No data:  71
+
+```
+### Feature Importances
+
+![Example prediction for the file outside of the dataset](https://raw.githubusercontent.com/armand1027/HappyCustomerBank/main/Images/CodeEgzample1.PNG)
+
+### Test set result using Random Forest Classifier
+
+![Example prediction for the file outside of the dataset](https://raw.githubusercontent.com/armand1027/HappyCustomerBank/main/Images/CodeEgzample2.PNG)
+

@@ -59,4 +59,4 @@ inception_match    0.898601
 
 ## Example
 
-![Example prediction for the file outside of the dataset](https://i.imgur.com/Ly1sC5O.png)
+![Example prediction for the file outside of the dataset](https://raw.githubusercontent.com/armand1027/HappyCustomerBank/main/Images/DataPNG1.PNG)

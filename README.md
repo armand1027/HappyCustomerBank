@@ -48,6 +48,10 @@ Var4- Categorical Variable with multiple Levels
 LoggedIn- Application Logged (Variable for understanding the problem – cannot be used in prediction)
 Disbursed- Loan Disbursed (Target Variable)
 
+### Example of data distribution (Source - Categorical Variable with multiple Levels)
+
+
+
 ```
 resnet_match       0.808508
 inception_match    0.898601

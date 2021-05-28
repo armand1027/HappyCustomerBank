@@ -52,6 +52,14 @@ Disbursed- Loan Disbursed (Target Variable)
 
 ![Example prediction for the file outside of the dataset](https://raw.githubusercontent.com/armand1027/HappyCustomerBank/main/Images/DataPNG1.PNG)
 
+### Models used for prediction:
+
+  - DecisionTreeClassifier
+  - RandomForestClassifier
+  - LogisticRegression
+  - XGBClassifier
+    
+
 ### Employer Name Value Counts
 
 ```
